@@ -16,4 +16,6 @@
  - [Instagram](https://www.instagram.com/prince_kotiswar_/?hl=en)
  - [Twitter](https://twitter.com/Kotiswar1)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kKotiswar)](https://github.com/kKotiswar/github-readme-stats)
+
 
