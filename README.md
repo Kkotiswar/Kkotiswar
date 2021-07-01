@@ -9,5 +9,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=kKotiswar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<a src="https://www.linkedin.com/in/kaithepalli-kotiswar/"><i class="bi bi-linkedin"></i></a>
+ **Social Media Profiles**
+
+ - [Linkedin](https://www.linkedin.com/in/kaithepalli-kotiswar/)
+ - [Facebook](https://www.facebook.com/kotiswar.kaithepalli.9/)
+ - [Instagram](https://www.instagram.com/prince_kotiswar_/?hl=en)
+ - [Twitter](https://twitter.com/Kotiswar1)
+
 
