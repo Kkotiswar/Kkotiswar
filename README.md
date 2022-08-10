@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently doing web development
 - 🌱 I’m currently working on DSA
-- 👯 I’m looking to collaborate on Web development and NodeJs projects
+- 👯 I’m looking to collaborate on Web development and MERN Stack projects
 - 💬 Ask me about Web Development and competetive coding
 - 📫 How to reach me: kaithepalliKotiswar@gmail.com
 
