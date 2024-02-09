@@ -1,5 +1,7 @@
 ### Hi there 👋,I'M Kotiswar
 
+SDE Intern @FI Money
+
 - 🔭 I’m currently doing web development
 - 🌱 I’m currently working on DSA
 - 👯 I’m looking to collaborate on Web development and MERN Stack projects
